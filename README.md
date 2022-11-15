@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello there, everyone. My name is Sean and I don't really know what I am doing here. I am a slowly-aging liberal punk rocker from Southern California. I am a technology enthusiast and hobbyist with a strong interest in learning about and how to code (even though I kinda suck at it). Welp. That's all I got for right now. Thanks for sticking around. :-)
+
 <!--
 **aseriesofnumbers/aseriesofnumbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
